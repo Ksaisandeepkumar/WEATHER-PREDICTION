@@ -1,0 +1,1 @@
+This was all in data science for weather prediction article. There is still room for many businesses to understand that historical weather data and data science models can help them improve their tactical and strategic decision-making. Data is the new currency, more and more of it exists and so more and more decisions can be made using it.
